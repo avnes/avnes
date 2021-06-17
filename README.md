@@ -12,9 +12,9 @@ Outside of work I enjoy spending time with my wife and two daughters. During the
 
 ### Right here, right now
 
-- 🔭 I’m currently working with Site Reliability Engineering.
+- 🔭 I’m currently working with Site Reliability Engineering, and I love it ❤️
 - 🌱 I’m currently learning Kubernetes, Helm and Flux CD.
 - :snake: I'm also improving my Python skills.
-- :whale: I think Docker is the best technical innovation since sliced bread.
-- 💬 Ask me about Infrastructure as Code, CI/CD automation and the DevOps culture.
-- ⚡ Fun fact: ...
+- :whale: I think Docker is the best technical innovation since sliced bread 🍞
+- 💬 Ask me about Infrastructure as Code, CI/CD automation and the DevOps culture 🦄
+- ⚡ Fun fact: "- Aim high, shoot lower" is my motto, because I also love FPS games 🎮
