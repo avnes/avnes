@@ -1,5 +1,7 @@
 ## Audun V. Nes
 
+![Audun V. Nes' GitHub stats](https://github-readme-stats.vercel.app/api?username=avnes&show_icons=true&count_private=true&theme=merko)
+
 ### Professional life
 I automate manual tasks in order to improve productivity and predictability for my colleagues and myself, so that we together can deliver value better and faster. This includes CI/CD pipelines, infrastructure as code (IaC) and maintenance or workflow scripts.
 
