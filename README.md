@@ -15,8 +15,8 @@ Outside of work I enjoy spending time with my wife and two daughters. During the
 ### Right here, right now
 
 - 🔭 I’m currently working with Site Reliability Engineering, and I love it ❤️
-- 🌱 I’m currently learning Kubernetes, Crossplane, Traefik, Helm and Flux CD.
-- :snake: I'm also improving my Python skills, and just about starting to learn GoLang.
+- 🌱 I’m currently working with Kubernetes, Traefik, Helm, Flux CD, Docker, Terraform, GitHub and GitHub Actions. Also a little bit of Azure DevOps Pipelines and  Crossplane.
+- :snake: I'm also improving my Python skills, and have just started learning GoLang.
 - :whale: I think Docker is the best technical innovation since sliced bread 🍞
 - 💬 Ask me about Infrastructure as Code, CI/CD automation and the DevOps culture 🦄
 - ⚡ Fun fact: "- Aim high, shoot lower" is my motto, because I also love FPS games 🎮
