@@ -15,7 +15,7 @@ Outside of work I enjoy spending time with my wife and two daughters. During the
 ### Right here, right now
 
 - 🔭 I’m currently working with Site Reliability Engineering and DevOps Engineering, and I love it ❤️
-- 🌱 I’m currently working with Kubernetes, Ingress (Nginx and Traefik), Helm, GitOps (FluxCD), Docker, Terraform, GitHub and GitHub Actions, GitLab and GitLab CI/CD. 
+- 🌱 I’m currently working with Kubernetes, Helm, GitOps (Argo CD and Flux CD), Docker, Terraform, GitHub and GitHub Actions, GitLab and GitLab CI/CD. 
 - :snake: I'm also improving my Python skills, and have just started learning GoLang.
 - :whale: I think Docker is the best technical innovation since sliced bread 🍞
 - 💬 Ask me about Infrastructure as Code, CI/CD automation and the DevOps culture 🦄
