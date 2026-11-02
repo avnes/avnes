@@ -15,6 +15,6 @@ Outside of work I enjoy spending time with my wife and two daughters. During the
 - 🔭 I’m currently working with Site Reliability Engineering and DevOps Engineering, and I love it ❤️
 - 🌱 I’m currently working with AWS, Kubernetes, GitOps (Argo CD and Flux CD), Docker, Terraform, GitHub and GitHub Actions. 
 - :snake: I'm also improving my Python skills, and have just started learning GoLang.
-- :whale: I think Docker is the best technical innovation since sliced bread 🍞
+- :whale: I think Linux containers is the best technical innovation since sliced bread 🍞
 - 💬 Ask me about GitOps, Infrastructure as Code, CI/CD automation and the DevOps culture 🦄
 - ⚡ Fun fact: "- Aim high, shoot lower" is my motto, because I also love FPS games 🎮
